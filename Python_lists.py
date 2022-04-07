@@ -1,8 +1,7 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
-
 # List operations - multiple ways
 
+# using iterations - for loop
 squares = []
 for x in range (0,10):
     squares.append(x*x)
